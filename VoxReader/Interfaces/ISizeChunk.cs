@@ -1,3 +1,5 @@
+using System.Numerics;
+
 namespace VoxReader.Interfaces
 {
     internal interface ISizeChunk : IChunk

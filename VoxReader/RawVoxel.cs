@@ -1,3 +1,5 @@
+using System.Numerics;
+
 namespace VoxReader
 {
     internal readonly struct RawVoxel

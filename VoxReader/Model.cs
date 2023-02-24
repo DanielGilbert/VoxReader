@@ -1,3 +1,4 @@
+using System.Numerics;
 using VoxReader.Interfaces;
 
 namespace VoxReader

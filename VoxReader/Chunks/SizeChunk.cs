@@ -1,4 +1,5 @@
-﻿using VoxReader.Interfaces;
+﻿using System.Numerics;
+using VoxReader.Interfaces;
 
 namespace VoxReader.Chunks
 {

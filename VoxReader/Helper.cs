@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using System.Linq;
+using System.Numerics;
 using VoxReader.Exceptions;
 using VoxReader.Interfaces;
 

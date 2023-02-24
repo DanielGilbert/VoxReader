@@ -1,4 +1,6 @@
-﻿namespace VoxReader
+﻿using System.Numerics;
+
+namespace VoxReader
 {
     public struct Frame
     {
